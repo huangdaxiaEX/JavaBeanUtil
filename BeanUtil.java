@@ -3,7 +3,7 @@
 /**
  * bean工具类，定义bean常用的工具方法
  * 
- * @author huangkai
+ * @author huangkai f
  * 
  */
 public class BeanUtil {
